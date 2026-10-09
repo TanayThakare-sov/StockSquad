@@ -1,4 +1,4 @@
-# Multi-agent stock research team
+# StockSquad
 
 Type an Indian large-cap company (for example "Tata Motors") and a team of AI agents writes a one-page research note:
 business summary, key numbers vs peers, strengths, risks, news sentiment and a "worth investigating" conclusion.
